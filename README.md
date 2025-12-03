@@ -1,6 +1,5 @@
 le diagramme de classe: 
 
 
-![alt text]({19CADFA4-EFCC-4268-A338-21C6FC2D335F}.png)
-
+![Image Alt](https://github.com/aitbhou2003/Gestion-des-Activit-s-d-un-BDE/blob/50fd338fc33bb0e20b8a55aa199aaef9130749d1/diagramme-class.jpg).
 
